@@ -11,6 +11,7 @@ warranty.
 #include <atomic_depth.hh>
 #include <fstream>
 #include <stdio.h>
+#include <iostream>
 
 
 void
